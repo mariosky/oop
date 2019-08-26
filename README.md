@@ -10,7 +10,7 @@ Los lenguajes que utilizaremos en el curso serán principalmente C# y Javascript
 
 
 ## Temario
-0. Ambiente de desarrollo
+0. [Ambiente de desarrollo](./ambiente/ambiente.md)
     1. .net core
     2. Visual Studio Code
     3. git
