@@ -2,8 +2,8 @@
 ## Programación Orientada a Objetos
 
 1. Introducción al paradigma de la programación orientado a objetos.
-  1. Elementos del modelo de objetos: clases, objetos, abstracción, modularidad, encapsulamiento, herencia y polimorfismo.
-  2. Lenguaje de modelado unificado:diagrama de clases.
+    1. Elementos del modelo de objetos: clases, objetos, abstracción, modularidad, encapsulamiento, herencia y polimorfismo.
+    2. Lenguaje de modelado unificado:diagrama de clases.
 
 2. Clases y objetos. 
     2.1 Declaración de clases: atributos, métodos, encapsulamiento.
