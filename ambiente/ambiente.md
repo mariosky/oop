@@ -38,8 +38,9 @@ El comando nos muestra la siguiente información:
 ```
 The template "Console Application" was created successfully.          
 
-Processing post-creation actions...                                                                      Running 'dotnet restore' on prueba\prueba.csproj...                                                Restore completed in 81.52 ms for 
- D:\OOP\prueba\prueba.csproj.                                                                                                                                 Restore succeeded.      
+Processing post-creation actions...                                   Running 'dotnet restore' on prueba\prueba.csproj...                   Restore completed in 81.52 ms for 
+ D:\OOP\prueba\prueba.csproj.                                     
+Restore succeeded.      
 ```
 
 Vamos a cambiarnos al directorio donde se generó el proyecto. 
