@@ -18,7 +18,7 @@ Al ejecutar el comando debemos ver un listado de los que tenemos instalado local
 ### Comandos de todos los días
 
 #### Crear un proyecto de consola
-El comando **dotnet new** ([documentación](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore22)) nos permite crear un nuevo proyecto, archivo de configuración o solución a partir de una plantilla. La plantilla **console** nos permite crear un proyecto tipo consola. Es importante especificar **-o <NOMBRE_PROYECTO>** para que se cree un nuevo directorio llamado **<NOMBRE_PROYECTO>** y se genere el nuevo proyecto dentro de el. El modificador **-o** también se puede indicar como **--output**.  El comando crea dos nuevos directorios **bin** y **obj**, un archivo de configuración **<NOMBRE_PROYECTO>.csproj** y un programa de ejemplo llamado **Program.cs**. 
+El comando **dotnet new** ([documentación](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore22)) nos permite crear un nuevo proyecto, archivo de configuración o solución a partir de una plantilla. La plantilla **console** nos permite crear un proyecto tipo consola. Es importante especificar **-o <NOMBRE_PROYECTO>** para que se cree un nuevo directorio llamado **<NOMBRE_PROYECTO>** y se genere el nuevo proyecto dentro de el. El modificador **-o** también se puede indicar como **--output**.  El comando crea un nuevo directorio llamdo **obj**, un archivo de configuración **<NOMBRE_PROYECTO>.csproj** y un programa de ejemplo llamado **Program.cs**. 
 
 Vamos a crear un nuevo proyecto dentro del directorio **OOP**, si no haz creado este directorio lo creamos primero y no movemos a el. En Windows:
 
@@ -96,16 +96,13 @@ Vemos como resultado:
 Hello World!  
 ```
 
-
-
-
-
-
-
-
-
+Al compilar se genera un archivo ejecutable llamado *prueba.exe* el cual se guarda dentro de un nuevo directorio llamado *bin*. Como ejercicio busca el directorio donde se encuentra el archivo ejectable.
 
 ### Visual Studio Code
+
+Aunque vamos a utilizar el comando *dotnet* para la gestión de nuestros proyectos necesitamos un editor de texto para la edición de nuestro código. Un buena opción el editor **Visual Studio Code** el cual es un editor desarrollado por Microsoft con extensiones para programar en C# y muchos otros lenguajes. Lo bajamos de [code.visualstudio.com](https://code.visualstudio.com/). 
+
+
 
 ### git
 
