@@ -102,12 +102,10 @@ Al compilar se genera un archivo ejecutable llamado *prueba.exe* el cual se guar
 
 Aunque vamos a utilizar el comando *dotnet* para la gestión de nuestros proyectos necesitamos un editor de texto para la edición de nuestro código. Un buena opción el editor **Visual Studio Code** el cual es un editor desarrollado por Microsoft con extensiones para programar en C# y muchos otros lenguajes. Lo bajamos de [code.visualstudio.com](https://code.visualstudio.com/). 
 
-
-
 ### git
 
 ### GitHub
 
 ## Práctica
 
-
+Crea un nuevo repositorio público en GitHub llamado *CursoOOP* el cual incluya un archivo *README.md* el cual servirá como portada a tu portafoilio de evidencias del curso. Debes organizar el portafolio utilizando subdirectorios para organizar el trabajo. Crea dentro de un directorio un archivo en formato *MarkDown* en el cual se describan los pasos para instalar el ambiente de desarrollo para desarrollar aplicaciones de consola en C#. Debes de utilizar imágenes,hipervínculos a archivos dentro de tu repositorio. 
