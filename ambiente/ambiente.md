@@ -98,13 +98,13 @@ Hello World!
 
 Al compilar se genera un archivo ejecutable llamado *prueba.exe* el cual se guarda dentro de un nuevo directorio llamado *bin*. Como ejercicio busca el directorio donde se encuentra el archivo ejectable.
 
-### Visual Studio Code
+## Visual Studio Code
 
 Aunque vamos a utilizar el comando *dotnet* para la gestión de nuestros proyectos necesitamos un editor de texto para la edición de nuestro código. Un buena opción el editor **Visual Studio Code** el cual es un editor desarrollado por Microsoft con extensiones para programar en C# y muchos otros lenguajes. Lo bajamos de [code.visualstudio.com](https://code.visualstudio.com/). 
 
-### git
+## git
 
-### GitHub
+## GitHub
 
 ## Práctica
 
