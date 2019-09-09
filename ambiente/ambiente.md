@@ -106,6 +106,4 @@ Aunque vamos a utilizar el comando *dotnet* para la gestión de nuestros proyect
 
 ## GitHub
 
-## Práctica
 
-Crea un nuevo repositorio público en GitHub llamado *CursoOOP* el cual incluya un archivo *README.md* el cual servirá como portada a tu portafoilio de evidencias del curso. Debes organizar el portafolio utilizando subdirectorios para organizar el trabajo. Crea dentro de un directorio un archivo en formato *MarkDown* en el cual se describan los pasos para instalar el ambiente de desarrollo para desarrollar aplicaciones de consola en C#. Debes de utilizar imágenes,hipervínculos a archivos dentro de tu repositorio. 

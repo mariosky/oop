@@ -22,7 +22,7 @@ Alumnos de este semestre [AGO2019](./ago2019/README.md)
     2. Lenguaje de modelado unificado: diagrama de clases.
 
 2. Clases y objetos 
-    1. Declaración de clases: atributos, métodos, encapsulamiento.
+    1. Declaración de [clases](./clases/clases.md): atributos, métodos, encapsulamiento.
     2. Instanciación de una clase.
     3. Referencia al objeto actual.
     4. Métodos: declaración, mensajes, paso de parámetros, retorno de valores.
