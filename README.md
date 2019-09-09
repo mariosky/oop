@@ -1,4 +1,6 @@
 
+### Actividades este semestre [AGO2019](./ago2019/README.md)
+
 ## Programación Orientada a Objetos
 
 El estilo de programación orientada a objetos sigue vigente aun 
@@ -7,8 +9,6 @@ después de más de cincuenta años de su origen. El paradigma, propuesto en 196
 Este curso básico de programación orientada a objetos lo abordaremos con una perspectiva moderna, incluyendo algunos elementos de programación funcional y dinámica los cuales también han sido adoptados por lenguajes recientes.
 
 Los lenguajes que utilizaremos en el curso serán C# y Javascript.
-
-Alumnos de este semestre [AGO2019](./ago2019/README.md)
 
 ## Temario
 0. [Ambiente de desarrollo](./ambiente/ambiente.md)
