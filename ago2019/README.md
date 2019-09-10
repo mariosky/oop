@@ -30,7 +30,9 @@
 
 Fechas de entrega son en horario local de Tijuana.
 
-## Crear Repositorio en Github (10 de Septiembre 9:00 horas)
+## Crear Repositorio en Github (10 de Septiembre 9:00 horas) 
+
+test
 
 1. Debes crear una cuenta en GitHub e instalar git localmente.
 2. Crea un repositorio público llamado POO. Agrega los archivos *.gitignore* y *README.md*.
