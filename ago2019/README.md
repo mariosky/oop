@@ -8,6 +8,7 @@
 | Trujillo             | [kikhi](https://github.com/kikhi/POO)      |
 | De Luna              | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 | Espinoza Ruiz        | [pabloalber84](https://github.com/pabloalber84)|
+| Paniagua             | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
 
 
 # Actividades 
