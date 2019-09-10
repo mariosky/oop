@@ -21,7 +21,9 @@
 | Saul Valadez          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
 | Lopez Esquerra        | [PhantompD](https://github.com/PhantompD/OOP)|
 | DigitalSnakedotexe    | [DigitalSnakedotexe](https://github.com/DigitalSnakedotexe/POO)|
-| Quintero Montalvo      | [luisqm](http://github.com/luisqm/POO)|
+| Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
+| García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
+| Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
 
 
 # Actividades 
