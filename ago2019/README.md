@@ -2,13 +2,24 @@
 
 ## Lista de Alumnos 
 
-| Apellido(s)          | Repositorio                                |
-| ---------------------|--------------------------------------------|
-| Silva                | [Luissf1](https://github.com/Luissf1/POO)  |
-| Trujillo             | [kikhi](https://github.com/kikhi/POO)      |
-| De Luna              | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
-| Espinoza Ruiz        | [pabloalber84](https://github.com/pabloalber84)|
-| Paniagua             | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
+| Apellido(s)           | Repositorio                                |
+| ----------------------|--------------------------------------------|
+| Silva                 | [Luissf1](https://github.com/Luissf1/POO)  |
+| Trujillo              | [kikhi](https://github.com/kikhi/POO)      |
+| De Luna               | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
+| Espinoza Ruiz         | [pabloalber84](https://github.com/pabloalber84)|
+| Paniagua  Gutierrez   | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
+| Rodolfo Hernandez     | [Rodolfo-hernandez1](https://github.com/Rodolfo-hernandez1/CursoOOP)  |
+| Lozano Alvarez        | [zefra](https://github.com/zefra/p.oo)      |
+| Flores Velez          | [ernestoramflovlz](https://github.com/ernestoramflovlz/Poo)|
+| Leon                  | [FelixELM](https://github.com/FelixELM/POO)|
+| López Roblero         | [CesarHLR](https://github.com/CesarHLR/POO)|
+| Jairo Perez           | [jairo570](https://github.com/jairo570/POO)|
+| Marco Reyes           | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
+| Christian Martinez    | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|
+| Marco Rivera          | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
+| Saul Valadez          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
+| Lopez Esquerra        | [PhantompD](https://github.com/PhantompD/OOP)|
 
 
 # Actividades 
