@@ -62,7 +62,7 @@ class Program
 {
 static void Main(){
 
-    Pelicula p1 = new Pelicula():
+    Pelicula p1 = new Pelicula();
     p1.SetTitulo("La La Land");
     p1.SetAño(2016); 
     Console.WriteLine("{0}({1})", p1.GetTitulo(), p1.GetAño());
@@ -101,8 +101,8 @@ class Program
 static void Main(){
 
     Pelicula p1 = new Pelicula("La La Land", 2016);
-    p1.AgregaActor(new Actor("Ryan Gosling", 1980));
-    p1.AgregaActor(new Actor("Emma Stone", 1988));
+    p1.AgregarActor(new Actor("Ryan Gosling", 1980));
+    p1.AgregarActor(new Actor("Emma Stone", 1988));
 
     p1.ImprimeActores();
 
