@@ -20,6 +20,8 @@
 | Marco Rivera          | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
 | Saul Valadez          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
 | Lopez Esquerra        | [PhantompD](https://github.com/PhantompD/OOP)|
+| DigitalSnakedotexe    | [DigitalSnakedotexe](https://github.com/DigitalSnakedotexe/POO)|
+| Quintero Montalvo      | [luisqm](http://github.com/luisqm/POO)|
 
 
 # Actividades 
