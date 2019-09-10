@@ -10,7 +10,7 @@ Este curso básico de programación orientada a objetos lo abordaremos con una p
 
 Los lenguajes que utilizaremos en el curso serán C# y Javascript.
 
-## Temario
+## Temario.
 0. [Ambiente de desarrollo](./ambiente/ambiente.md)
     1. [.net core](./ambiente/ambiente.md#net-core)
     2. Visual Studio Code
