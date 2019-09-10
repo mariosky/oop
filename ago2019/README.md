@@ -15,7 +15,7 @@
 | Leon                  | [FelixELM](https://github.com/FelixELM/POO)|
 | López Roblero         | [CesarHLR](https://github.com/CesarHLR/POO)|
 | Jairo Perez           | [jairo570](https://github.com/jairo570/POO)|
-| Marco Reyes           | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
+| Mauricio Chavez       | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
 | Christian Martinez    | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|
 | Marco Rivera          | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
 | Saul Valadez          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
