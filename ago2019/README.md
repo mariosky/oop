@@ -32,8 +32,6 @@ Fechas de entrega son en horario local de Tijuana.
 
 ## Crear Repositorio en Github (10 de Septiembre 9:00 horas) 
 
-test
-
 1. Debes crear una cuenta en GitHub e instalar git localmente.
 2. Crea un repositorio público llamado POO. Agrega los archivos *.gitignore* y *README.md*.
 3. Incluye una portada en el archivo README.md. Este archivo será la portada e índice de tus evidencias. Debes agregar vínculos a las actividades del curso. Debes organizar el portafolio utilizando subdirectorios.
@@ -53,6 +51,7 @@ Crea un nueva carpeta en el repositorio *POO* llamada *Setup* la cual incluya un
 2. Instalación y configuración de Visual Studio Code para C#.
 3. Instalación de git. conectado a tu cuenta de GitHub y VSC.
 
+[Documento de Apoyo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Programa básico Películas (13 de Septiembre 9:00 horas)
 
