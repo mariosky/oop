@@ -30,10 +30,11 @@
 | Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
 | Guerrero Elogio       | [EligioGA](https://github.com/EligioGA/POO)|
 | Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
-
-|  Paez Rentería | [foxsok](http://github.com/foxsok)|
-| Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
-| Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
+| Ramirez Coronel       | [AlbertoRaCa](https://github.com/AlbertoRaCa/OOP)|
+| Paez Rentería         | [foxsok](http://github.com/foxsok)|
+| Aleman Ureta          | [EchoWitcher](https://github.com/EchoWitcher/POO)|
+| Ruiz Yoel             | [YoelRuiz](https://github.com/YoelRuiz)|
+| Garcia Miguel         | [Miguel2496](https://github.com/Miguel2496/OOP-MI)|
 
 # Actividades 
 
