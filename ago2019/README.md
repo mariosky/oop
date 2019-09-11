@@ -24,7 +24,7 @@
 |18| Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
 |19| García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
 |20| Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
-|21| Tecuapa Arturo        | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|
+|21| Arturo Tecuapa        | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|
 |22| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
 |23| Mercado Arturo        | [Arturo-M](https://github.com/Arturo-M/OOP)|
 |24| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
