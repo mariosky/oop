@@ -9,14 +9,14 @@
 | De Luna               | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 | Espinoza Ruiz         | [pabloalber84](https://github.com/pabloalber84)|
 | Paniagua  Gutierrez   | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
-| Hernandez Rodolfo      | [Rodolfo-hernandez1](https://github.com/Rodolfo-hernandez1/CursoOOP)  |
+| Hernandez Rodolfo     | [Rodolfo-hernandez1](https://github.com/Rodolfo-hernandez1/CursoOOP)  |
 | Lozano Alvarez        | [zefra](https://github.com/zefra/p.oo)      |
 | Flores Velez          | [ernestoramflovlz](https://github.com/ernestoramflovlz/Poo)|
 | Leon                  | [FelixELM](https://github.com/FelixELM/POO)|
 | López Roblero         | [CesarHLR](https://github.com/CesarHLR/POO)|
 | Jairo Perez           | [jairo570](https://github.com/jairo570/POO)|
 | Chavez  Mauricio      | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
-| Martinez Christian     | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|
+| Martinez Christian    | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|
 | Rivera Marco          | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
 | Valadez Saul          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
 | Lopez Esquerra        | [PhantompD](https://github.com/PhantompD/OOP)|
@@ -29,6 +29,10 @@
 | Mercado Arturo        | [Arturo-M](https://github.com/Arturo-M/OOP)|
 | Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
 | Guerrero Elogio       | [EligioGA](https://github.com/EligioGA/POO)|
+| Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
+
+|  Paez Rentería | [foxsok](http://github.com/foxsok)|
+| Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
 | Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
 
 # Actividades 
