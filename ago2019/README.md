@@ -5,7 +5,7 @@
 | Apellido(s)           | Repositorio                                |
 | ----------------------|--------------------------------------------|
 | Silva                 | [Luissf1](https://github.com/Luissf1/POO)  |
-| Trujillo              | [kikhi](https://github.com/kikhi/POO)      |
+| Cesar Trujillo        | [kikhi](https://github.com/kikhi/POO)      |
 | De Luna               | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 | Espinoza Ruiz         | [pabloalber84](https://github.com/pabloalber84)|
 | Paniagua  Gutierrez   | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
