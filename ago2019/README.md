@@ -35,6 +35,7 @@
 |29| Aleman Ureta          | [EchoWitcher](https://github.com/EchoWitcher/POO)|
 |30| Ruiz Yoel             | [YoelRuiz](https://github.com/YoelRuiz)|
 |31| Garcia Miguel         | [Miguel2496](https://github.com/Miguel2496/OOP-MI)|
+|32| Chavez Trinidad       | [rwb3x](https://https://github.com/rwb3x/POO)| 
 
 # Actividades 
 
