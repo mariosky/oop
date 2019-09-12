@@ -4,7 +4,7 @@
 
 | | Apellido(s)           | Repositorio                                |
 |-| ----------------------|--------------------------------------------|
-|1| Silva                 | [Luissf1](https://github.com/Luissf1/POO)  |
+|1| Silva Luis            | [Luissf1](https://github.com/Luissf1/POO)  |
 |2| Cesar Trujillo        | [kikhi](https://github.com/kikhi/POO)      |
 |3| De Luna               | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 |4| Espinoza Ruiz         | [pabloalber84](https://github.com/pabloalber84)|
@@ -24,7 +24,7 @@
 |18| Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
 |19| García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
 |20| Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
-|21| Tecuapa Arturo        | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|
+|21| Arturo Tecuapa        | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|
 |22| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
 |23| Mercado Arturo        | [Arturo-M](https://github.com/Arturo-M/OOP)|
 |24| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
