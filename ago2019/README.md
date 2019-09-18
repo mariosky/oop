@@ -3,6 +3,7 @@
 ## Lista de Alumnos 
 
 | Nombre             | Repositorio                                | 
+| -------------------|--------------------------------------------|
 |AGUAYO AGUAYO YAEL  | [Yaguay](https://github.com/Yaguay/POO)| 
 |ALEMAN URETA ENRIQUE  | [EchoWitcher](https://github.com/EchoWitcher/POO)| 
 |ANGULO GOMEZ CRISTO ABELARDO | | 
