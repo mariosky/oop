@@ -48,7 +48,7 @@
 
 Fechas de entrega son en horario local de Tijuana.
 
-## Crear Repositorio en Github (10 de Septiembre 9:00 horas) 
+## Crear Repositorio en Github (18 de Septiembre) 
 
 1. Debes crear una cuenta en GitHub e instalar git localmente.
 2. Crea un repositorio público llamado POO. Agrega los archivos *.gitignore* y *README.md*.
@@ -61,7 +61,7 @@ Crear un repositorio  [GitHub Help](https://help.github.com/en/articles/create-a
 Crear un pull request [GitHub Help](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)
 
 
-## Ejercicio de Markdown en Github (12 de Septiembre 9:00 horas)
+## Ejercicio de Markdown en Github (19 de Septiembre)
 
 Crea un nueva carpeta en el repositorio *POO* llamada *Setup* la cual incluya un archivo *README.md*   En el cual se describan los pasos para instalar el ambiente de desarrollo para aplicaciones de consola en C#. Debes de utilizar imágenes,hipervínculos a archivos dentro de tu repositorio. Se deben incluir detalles de:
 
@@ -71,9 +71,9 @@ Crea un nueva carpeta en el repositorio *POO* llamada *Setup* la cual incluya un
 
 [Documento de Apoyo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Programa básico Películas (13 de Septiembre 9:00 horas)
+## Programa básico Películas (20 de Septiembre)
 
-De acuerdo a los ejemplos vistos en clase y la lectura. Implementa en c# la clase *Pelicula*  con los siguientes atribitos **publicos**:
+De acuerdo a los ejemplos vistos en clase y la lectura. Implementa en c# la clase *Pelicula*  con los siguientes atributos **publicos**:
 
 
 ### Pelicula
@@ -109,7 +109,7 @@ Actualiza la versión a GitHub.
 5. Por último agrega dos constructores: *Pelicula()* y *Pelicula(string titulo, Int16 año )* y el método imprime().
 Actualiza la versión a GitHub.
 
-## Lista de Películas (15 de Septiembre 9:00 horas)
+## Lista de Películas (21 de Septiembre)
 
 Utilizando la bibliteca *System.Collections.Generic* crea una lista de 5 peliculas. Utilizando la lista genérica **List<Pelicula>**.
 1. Crea la lista en *Main()* y agrega directamente las peliculas a la lista, por ejemplo para la clase Personasería de esta manera (fragmento):
@@ -124,7 +124,7 @@ persona.Add(new Persona ("jim"));
 ```
 2. Utiliza un ciclo **foreach** para iterar por la lista e imprimir las peliculas.
 
-## Actores (16 de Septiembre 9:00 horas)
+## Actores (22 de Septiembre)
 
 Agrega a tu clase **Pelicula** un atributo **actores** de tipo **List<Actor>**
 Tu clase debe permitir el siguiente funcionamiento:
@@ -143,3 +143,4 @@ static void Main(){
 }
 } 
 ```
+
