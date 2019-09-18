@@ -2,40 +2,46 @@
 
 ## Lista de Alumnos 
 
-| | Apellido(s)           | Repositorio                                |
-|-| ----------------------|--------------------------------------------|
-|1| Silva Luis            | [Luissf1](https://github.com/Luissf1/POO)  |
-|2| Cesar Trujillo        | [kikhi](https://github.com/kikhi/POO)      |
-|3| De Luna               | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
-|4| Espinoza Ruiz         | [pabloalber84](https://github.com/pabloalber84)|
-|5| Paniagua  Gutierrez   | [CarlosGtzOf](https://github.com/CarlosGtzOf)|
-|6| Hernandez Rodolfo     | [Rodolfo-hernandez1](https://github.com/Rodolfo-hernandez1/CursoOOP)  |
-|7| Lozano Alvarez        | [zefra](https://github.com/zefra/p.oo)      |
-|8| Flores Velez          | [ernestoramflovlz](https://github.com/ernestoramflovlz/Poo)|
-|9| Leon                  | [FelixELM](https://github.com/FelixELM/POO)|
-|10| López Roblero         | [CesarHLR](https://github.com/CesarHLR/POO)|
-|11| Jairo Perez           | [jairo570](https://github.com/jairo570/POO)|
-|12| Chavez  Mauricio      | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
-|13| Martinez Christian    | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|
-|14| Rivera Marco          | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
-|15| Valadez Saul          | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
-|16| Lopez Esquerra        | [PhantompD](https://github.com/PhantompD/OOP)|
-|17| DigitalSnakedotexe    | [DigitalSnakedotexe](https://github.com/DigitalSnakedotexe/POO)|
-|18| Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
-|19| García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
-|20| Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
-|21| Arturo Tecuapa        | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|
-|22| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
-|23| Mercado Arturo        | [Arturo-M](https://github.com/Arturo-M/OOP)|
-|24| Tejeda Cota           | [iwanttacos](https://github.com/iwanttacos/POO)|
-|25| Guerrero Elogio       | [EligioGA](https://github.com/EligioGA/POO)|
-|26| Aguayo Yael           | [Yaguay](https://github.com/Yaguay/POO)|
-|27| Ramirez Coronel       | [AlbertoRaCa](https://github.com/AlbertoRaCa/OOP)|
-|28| Paez Rentería         | [foxsok](http://github.com/foxsok)|
-|29| Aleman Ureta          | [EchoWitcher](https://github.com/EchoWitcher/POO)|
-|30| Ruiz Yoel             | [YoelRuiz](https://github.com/YoelRuiz)|
-|31| Garcia Miguel         | [Miguel2496](https://github.com/Miguel2496/OOP-MI)|
-|32| Chavez Trinidad       | [rwb3x](https://https://github.com/rwb3x/POO)| 
+| Nombre             | Repositorio                                | A1 |A2 |A3 |A4 |A5 |A6 |A7 |
+|AGUAYO AGUAYO YAEL  | [Yaguay](https://github.com/Yaguay/POO)| | | | | | | |
+|ALEMAN URETA ENRIQUE  | [EchoWitcher](https://github.com/EchoWitcher/POO)| | | | | | | |
+|ANGULO GOMEZ CRISTO ABELARDO | | | | | | | |
+|CHAVEZ ARROYO MAURICIO | [Mauricio2110](https://github.com/Mauricio2110/Poo)|| | | | | | |
+|CHAVEZ TRINIDAD RUBEN FELIX  | [rwb3x](https://https://github.com/rwb3x/POO)|| | | | | | |
+|DE LUNA CORRAL JESUS RODRIGO | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|| | | | | | |
+|DIAZ CORONA ASHLEY YEDITH| | | | | | ||
+|ESPINOZA RUIZ PABLO ALBERTO  | [pabloalber84](https://github.com/pabloalber84)|| | | | | | |
+|FLORES VELEZ ERNESTO RAMSES | [ernestoramflovlz](https://github.com/ernestoramflovlz/Poo)|| | | | | | |
+|GARCIA LARES MIGUEL ANGEL  | [Miguel2496](https://github.com/Miguel2496/OOP-MI)|| | | | | | |
+|GARCIA PEREZ GABRIEL  | [GarciaG1](https://github.com/GarciaG1/POO1)|| | | | | | |
+|GUERRERO AGUILAR ELIGIO GUADALUPE  | [EligioGA](https://github.com/EligioGA/POO)|| | | | | | |
+|GUTIERREZ LOZANO JUAN PABLO  | [DigitalSnakedotexe](https://github.com/DigitalSnakedotexe/POO)|| | | | | | |
+|HERNANDEZ QUIROZ RODOLFO IVAN  | [Rodolfo-hernandez1](https://github.com/Rodolfo-hernandez1/CursoOOP)  || | | | | | |
+|JIMENEZ GONZALEZ MANUEL| | | | | | || 
+|LEON MOLINA FELIX ENRIQUE  | [FelixELM](https://github.com/FelixELM/POO)|| | | | | | |
+|LOPEZ ESQUERRA JONATHAN DANIEL  | [PhantompD](https://github.com/PhantompD/OOP)| | | | | | | |
+|LOPEZ ROBLERO CESAR HUMBERTO  | [CesarHLR](https://github.com/CesarHLR/POO)|| | | | | | |
+|LOZANO ALVAREZ MARCO POLO  | [zefra](https://github.com/zefra/p.oo) | | | | | | |
+|LUIS CASTILLO VALERIA | [valeria1703](https://github.com/valeria1703/POO)|| | | | | | |
+|MARTINEZ MURRIETA CHRISTIAN ANDRES  | [ChrisHomeless](https://github.com/ChrisHomeless/HomelessPOO)|| | | | | | |
+|MEDINA MAGAÑA HECTOR MANUEL | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|| | | | | | |
+|MERCADO CRUZ ARTURO  | [Arturo-M](https://github.com/Arturo-M/OOP)|| | | | | | |
+|ORDAZ MEDINA RICARDO DANIEL| | | | | | ||
+|PAEZ RENTERIA DAVID ARMANDO  | [foxsok](http://github.com/foxsok)|| | | | | | |
+|PANIAGUA GUTIERREZ CARLOS ADRIAN | [CarlosGtzOf](https://github.com/CarlosGtzOf)|| | | | | | |
+|PEREZ ROJAS JAIRO JAZIEL | [jairo570](https://github.com/jairo570/POO)|| | | | | | |
+|PICOS QUEZADA ERICK DANIEL| | | | | | ||
+|PORTUGAL QUINTERO ADOLFO | [4DownPortu](https://github.com/4DownPortu/POO)|| | | | | | |
+|QUINTERO MONTALVO LUIS ENRIQUE | [luisqm](http://github.com/luisqm/POO)|| | | | | | |
+|RAMIREZ CORONEL ALBERTO | [AlbertoRaCa](https://github.com/AlbertoRaCa/OOP)|| | | | | | |
+|REYES CARO MARCO ANTONIO | | | | | | ||
+|RIVERA MARTINEZ MARCO ANTONIO | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|| | | | | | |
+|RUIZ VILLEGAS JAVIER YOEL | [YoelRuiz](https://github.com/YoelRuiz)|| | | | | | |
+|SILVA REYES LUIS ADRIAN | [Luissf1](https://github.com/Luissf1/POO)  || | | | | | |
+|TECUAPA GALLARDO ARTURO | [ArturoTecuapa50](https://github.com/ArturoTecuapa50)|| | | | | | |
+|TEJEDA COTA ERICK  | [iwanttacos](https://github.com/iwanttacos/POO)|| | | | | | |
+|TRUJILLO GARAY CESAR ANDRES | [kikhi](https://github.com/kikhi/POO)      || | | | | | |
+|VALADEZ CORRALES SAUL ALEJANDRO | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|| | | | | | |
 
 # Actividades 
 
