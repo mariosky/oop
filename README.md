@@ -25,7 +25,7 @@ Los lenguajes que utilizaremos en el curso serán C# y Javascript.
     1. Declaración de [clases](./clases/clases.md): atributos, métodos, encapsulamiento.
     2. Instanciación de una clase.
     3. Referencia al objeto actual.
-    4. Métodos: declaración, mensajes, paso de parámetros, retorno de valores.
+    4. Métodos: declaración, mensajes, [paso de parámetros](./clases/params.md), retorno de valores.
     5. Constructores y destructores: declaración, uso y aplicaciones.
     6. Sobrecarga de métodos.
     7. Sobrecarga de operadores: Concepto y utilidad, operadores unarios y binarios.
