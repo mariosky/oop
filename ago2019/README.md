@@ -112,7 +112,7 @@ Actualiza la versión a GitHub.
 ## Lista de Películas (21 de Septiembre)
 
 Utilizando la bibliteca *System.Collections.Generic* crea una lista de 5 peliculas. Utilizando la lista genérica **List<Pelicula>**.
-1. Crea la lista en *Main()* y agrega directamente las peliculas a la lista, por ejemplo para la clase Personasería de esta manera (fragmento):
+1. Crea la lista en *Main()* y agrega directamente las peliculas a la lista, por ejemplo para la clase **Persona** sería de esta manera (fragmento):
 
 ```csharp
 List<Persona> personas = new List<Persona>();
