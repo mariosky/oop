@@ -12,7 +12,7 @@
 |DE LUNA CORRAL JESUS RODRIGO | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 |DIAZ CORONA ASHLEY YEDITH | | 
 |ESPINOZA RUIZ PABLO ALBERTO  | [pabloalber84](https://github.com/pabloalber84)|
-|FLORES VELEZ ERNESTO RAMSES | [ernestoramflovlz](https://github.com/ernestoramflovlz/Poo)|
+|FLORES VELEZ ERNESTO RAMSES | [ernestoramflovlz](https://github.com/ernestoramflovlz/POO.)|
 |GARCIA LARES MIGUEL ANGEL  | [Miguel2496](https://github.com/Miguel2496/OOP-MI)|
 |GARCIA PEREZ GABRIEL  | [GarciaG1](https://github.com/GarciaG1/POO1)|
 |GUERRERO AGUILAR ELIGIO GUADALUPE  | [EligioGA](https://github.com/EligioGA/POO)|
