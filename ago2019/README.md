@@ -8,7 +8,7 @@
 |ALEMAN URETA ENRIQUE  | [EchoWitcher](https://github.com/EchoWitcher/POO)| 
 |ANGULO GOMEZ CRISTO ABELARDO | | 
 |CHAVEZ ARROYO MAURICIO | [Mauricio2110](https://github.com/Mauricio2110/Poo)|
-|CHAVEZ TRINIDAD RUBEN FELIX  | [rwb3x](https://https://github.com/rwb3x/POO)|
+|CHAVEZ TRINIDAD RUBEN FELIX  | [rwb3x](https://github.com/rwb3x/POO)|
 |DE LUNA CORRAL JESUS RODRIGO | [Rodrigo-deluna](https://github.com/Rodrigo-deluna)|
 |DIAZ CORONA ASHLEY YEDITH | | 
 |ESPINOZA RUIZ PABLO ALBERTO  | [pabloalber84](https://github.com/pabloalber84)|
