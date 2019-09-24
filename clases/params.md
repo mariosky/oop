@@ -14,83 +14,99 @@ variables: [de valor](https://docs.microsoft.com/es-mx/dotnet/csharp/language-re
 
 Cuando ejecutamos un método que requiere parámetros
 decimos que le enviamos o pasámos los parámetros que necesita, ya sea de manera
-literal o utulizando una variable.
+literal o utilizando una variable.
 
-Por ejemplo:
+Por ejemplo, analizemos este fragmento de código:
 
 ```csharp
 
-Contador c = new Contador();
+Duplicador d = new Duplicador();
 
-c.incrementa(1);
+d.duplica(1);
+
 int x = 2;
 
-c.incrementa(x);
-
-Contador c2 = new Contador();
-c2.incrementa(c1);
+d.duplica(x);
 
 ```
 
-En el código anterior estamos llamando al método *incrementa()* del
-objeto *c*, pasándole primero un entero literal *1*, después una
-variable tipo valor *x* y finalmente le enviamos una variable
-tipo referencia *c2* la cual se liga a otro contador. 
-
-Decimos que el método *incrementa* tiene dos sobrecargas, una que
-toma un entero (tipo valor) y otra que toma un objeto de la clase
-Contador (tipo referencia).  Algo así (fragmento) :
+En el código anterior estamos llamando dos veces al método **duplica(int x)** del
+objeto **d**, pasándole como parámetro un entero literal **1**, después una
+variable de tipo valor **x**, inicializada en 2. La clase **Duplicador** podría estar implementada de 
+la siguiente manera: 
 
 ```csharp
-class Contador {
-	
-	public void incrementa(int n) { 
+class Duplicador{
 
-	}
-
-	public void incrementa(Contador c) { 
-
+	public void duplica(int n) { 
+			n = n*2;
 	}
 
 }
-
 ```
 
-Por defecto, el paso de variables se hace *por valor*, 
-vemos el siguente ejemplo:
+Por defecto en C# el paso de variables se hace **por valor**, 
+veamos el concepto en el ejemplo y preguntándonos ¿Qué valor 
+tiene **x** al imprimirse?:
 
 ```csharp
-
-	public void incrementa(int n) { 
-
-	}
+Duplicador d = new Duplicador();
+int x = 2;
+d.duplica(x);
+Console.WriteLine(x);
 ```
 
 En el caso de pase *por valor*, se hace una copia del valor que 
-se está pasando (por ejemplo, *x*) y 
-se guarda localmente en *n*. El hacer una copia tiene un costo, 
-pero se tiene la ventaja de que se puede almacenar de manera más eficiente
-y en caso de que se modifique *n*, (por ej. con un *n++*) este cambio
-solo sucedera en la variable local y no en la original.
+se está pasando (*x*) y 
+se guarda localmente en *n*. El hacer una copia tiene un costo adicional 
+pero en caso de que se modifique *n*, (como es el caso) este cambio
+solo sucederá en la variable local y no en la original. Por lo que sabemos
+que se imprimiría **2**. 
 
-Ahora, esto es distinto para el caso de que pasemos variables tipo referencia
+Ahora, esto es distinto para el caso de que pasemos variables tipo referencia,
+veamos otro ejemplo:
 
 ```csharp
+using System;
 
-	public void incrementa(Contador c) { 
+class Persona
+{
+	public string nombre;
+	public string apellido;
+
+	public Persona() {
+		nombre = 'Fulano';
+		apellido = 'De tal';
+	}
+}
+
+class Anonymous{
+	
+	static public void anonimiza(Persona p) { 
+			p.nombre = 'xxxxxxxxx';
+			p.apellido = 'xxxxxxxxx';
+	}
+	static void Main(){
+		Persona espía = new Persona();
+
+		Console.WriteLine(espía.nombre);
+		anonimiza(espía);
+		Console.WriteLine(espía.nombre);
 
 	}
+}
 ```
 
-Ahora *c* recibe una referencia al objeto que se envía como 
-parámetro, en este caso *c2*. Esto significa para empezar, que aunque también
-se copia el valor, esta copia es una referencia al objeto original. Lo
-que significa que *si* podríamos modificar al objeto *c2*, ya que
-tenemos su referencia. ¡Esto puede ser muy peligroso! y como la mayoría 
+Ahora **anonimiza(Persona p)** recibe una referencia al objeto que se envía como 
+parámetro, en este caso **espía** y se copia a **p**. Esto significa para empezar, que aunque también
+se copia el valor, esta copia es una **referencia** al objeto original. El contar con una referencia 
+significa que a diferencia de una variable tipo valor como en el ejemplo anterior,
+ahora **si** podríamos modificar al objeto que recibimos, ya que
+tenemos su referencia. ¡Esto puede ser muy peligroso! aunque como la mayoría 
 de las cosas peligrosas, puede ser benéfica en ciertos casos. 
+¿Qué se imprimiría en en el programa anterior?
 
-Con las siguientes palabras clave podemos especificar que el paso de
-parámetros tenga un comportamiento distinto:
+Veamos como  podemos controlar el comportamiento del pase de parámetros con estas palabras clave:
 
 * *ref* con esta palabra especificamos que el paso de parámetros se hará por referencia incluso cuando las
 variables sean de tipo valor. Nos permite modificar el valor del parámetro.
@@ -101,6 +117,15 @@ variables sean de tipo valor. Nos permite modificar el valor del parámetro.
 
 
 ## ref 
+Vamos a cambiar la implementación del método **incrementa(int n)** en el código anterior para ver 
+que sucede al pasar un parámetro tipo valor con la palabra **ref**. Es solo cuestión de agregar **ref**
+al especificar el parámetro:
+
+```csharp
+	public void duplica( ref int n) { 
+			n*=2;
+	}
+```
 
 ## out
 
