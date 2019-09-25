@@ -57,11 +57,11 @@ Console.WriteLine(x);
 ```
 
 En el caso de pase **por valor**, se hace una copia del valor que 
-se está pasando (**x**) y 
+se está pasando (en este caso **x**) y 
 se guarda localmente en **n**. El hacer una copia tiene un costo adicional 
-pero en caso de que se modifique **n**, (como es el caso) este cambio
-solo sucederá en la variable local y no en la original. Por lo que sabemos
-que se imprimiría **2**. 
+y además en caso de que se modifique **n**, (como es el caso) este cambio
+solo sucederá en la variable local y no en la externa. En este caso dbe 
+imprimir **2**, por lo que ya sabemos. 
 
 Ahora, esto es distinto para el caso de que pasemos variables tipo referencia,
 veamos otro ejemplo:
@@ -222,12 +222,35 @@ xxxxxxxxx
 xxxxxxxxx
 John
 ```
+Cuando enviamos parámetros **por referencia** utilizando **ref** forzosamente deben de estar inicializados,
+incluso las variables **tipo valor**. Por ejemplo, esto marcaría error:
 
+```csharp
+Duplicador d = new Duplicador();
+int x; // Solo estamos declarando x, pero no la inicializamos
+d.duplica_ref(ref x); // ERROR
+Console.WriteLine(x); 
+```
+Debemos de inicializar antes:
 
+```csharp
+Duplicador d = new Duplicador();
+int x = new int(); // También podríamos hacerlo de una manera más común: int x = 4; 
+d.duplica_ref(ref x);
+Console.WriteLine(x);
+```
 
+En este estilo, lo hacemos utilizando un constructor. **TRIVIA:** ¿con que valor se inicializa **x**? 
 
+Otra restricción es que no podemos enviar valores literales:
+```csharp
+Duplicador d = new Duplicador();
+d.duplica_ref(ref 12); //ERROR
+Console.WriteLine(x);
+```
 
 ## out
+
 
 ## in
 
