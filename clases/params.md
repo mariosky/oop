@@ -11,7 +11,6 @@ Para entender bien los conceptos de paso de parámetros en C#,
 es importante recordar la diferencia entre los tipos de
 variables: [de valor](https://docs.microsoft.com/es-mx/dotnet/csharp/language-reference/keywords/value-types) y [de referencia](https://docs.microsoft.com/es-mx/dotnet/csharp/language-reference/keywords/reference-types).
 
-
 Cuando ejecutamos un método que requiere parámetros
 decimos que le enviamos o pasámos los valores que necesita como argumentos, ya sea de manera
 literal o utilizando variables.
@@ -317,7 +316,6 @@ class Duplicador{
 
 class Program
 {
-
 	static void Main()
 	{
 		Duplicador d = new Duplicador();
@@ -328,10 +326,6 @@ class Program
 }
 
 ```
-
-
-
-
 [Documentación](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/method-parameters)
 
 

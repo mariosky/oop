@@ -35,7 +35,7 @@
 |PORTUGAL QUINTERO ADOLFO | [4DownPortu](https://github.com/4DownPortu/POO)|
 |QUINTERO MONTALVO LUIS ENRIQUE | [luisqm](http://github.com/luisqm/POO)|
 |RAMIREZ CORONEL ALBERTO | [AlbertoRaCa](https://github.com/AlbertoRaCa/OOP)|
-|REYES CARO MARCO ANTONIO | |
+|REYES CARO MARCO ANTONIO | [marcoreyes666](https://github.com/marcoreyes666/POO)|
 |RIVERA MARTINEZ MARCO ANTONIO | [MarcoRivera21](https://github.com/MarcoRivera21/Marco-Rivera/blob/master/README.md)|
 |RUIZ VILLEGAS JAVIER YOEL | [YoelRuiz](https://github.com/YoelRuiz)|
 |SILVA REYES LUIS ADRIAN | [Luissf1](https://github.com/Luissf1/POO)  |
