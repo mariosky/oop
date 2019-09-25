@@ -32,7 +32,7 @@ d.duplica(x);
 
 En el código anterior estamos llamando dos veces al método **duplica(int x)** del
 objeto **d**, pasándole como parámetro un entero literal **1**, después una
-variable de tipo valor **x**, inicializada en 2. La clase **Duplicador** podría estar implementada de 
+variable de tipo valor **x**, inicializada en **2**. La clase **Duplicador** podría estar implementada de 
 la siguiente manera: 
 
 ```csharp
@@ -56,10 +56,10 @@ d.duplica(x);
 Console.WriteLine(x);
 ```
 
-En el caso de pase *por valor*, se hace una copia del valor que 
-se está pasando (*x*) y 
-se guarda localmente en *n*. El hacer una copia tiene un costo adicional 
-pero en caso de que se modifique *n*, (como es el caso) este cambio
+En el caso de pase **por valor**, se hace una copia del valor que 
+se está pasando (**x**) y 
+se guarda localmente en **n**. El hacer una copia tiene un costo adicional 
+pero en caso de que se modifique **n**, (como es el caso) este cambio
 solo sucederá en la variable local y no en la original. Por lo que sabemos
 que se imprimiría **2**. 
 
@@ -86,6 +86,8 @@ class Anonymous{
 			p.nombre = 'xxxxxxxxx';
 			p.apellido = 'xxxxxxxxx';
 	}
+
+
 	static void Main(){
 		Persona espía = new Persona();
 
@@ -117,15 +119,113 @@ variables sean de tipo valor. Nos permite modificar el valor del parámetro.
 
 
 ## ref 
-Vamos a cambiar la implementación del método **incrementa(int n)** en el código anterior para ver 
-que sucede al pasar un parámetro tipo valor con la palabra **ref**. Es solo cuestión de agregar **ref**
+Vamos a cambiar la implementación del método **incrementa(int n)** del código que vimos anteriormente para ver 
+que sucede cuando pasamos un parámetro **tipo valor** con el modificador **ref**. Es solo cuestión de agregar **ref**
 al especificar el parámetro:
 
 ```csharp
-	public void duplica( ref int n) { 
+	public void duplica_ref( ref int n) { 
 			n*=2;
 	}
 ```
+
+Cuando un parámetro se pasa por referencia, se pasa **directamente** una referencia a la variable externa. Es decir,
+No se hace una copia. Esto implica que si se hace un cambio a la variable local, realmente se está haciendo 
+el cambio en las dos variables, la local y la externa. 
+
+```csharp
+using System;
+
+class Duplicador{
+
+	public void duplica(int n) { 
+			n = n*2;
+	}
+
+	public void duplica_ref(ref int n) { 
+			n = n*2;
+	}
+
+
+}
+
+class Program
+{
+
+	static void Main()
+	{
+		Duplicador d = new Duplicador();
+		int x = 2;
+		d.duplica(x);
+		Console.WriteLine(x);
+		d.duplica_ref(x);
+		Console.WriteLine(x);
+	}
+}
+
+```
+En este caso, en el llamado a  **d.duplica(x)** no se modifica **x**, pero en **d.duplica_ref(x)**
+si se modifica.
+
+¿Qué sucede si enviamos una variable tipo referencia con el modificador **ref**? En este
+caso funcionaría **casi** igual, como antes, si modificamos al objeto o variable dentro del método al
+ser una copia de la referencia original, se afectaría también a l a variable externa. Recordemos que
+la copia se destruye al terminar de ejecutar el método, pero el cambio persiste. 
+
+Vamos a ver un caso especial importante. ¿Qué pasaría si reemplazamos el valor de la referencia dentro del método?
+Por ejemplo, en lugar de simplemente anonimizar, ¿que tal si reemplazamos a una persona por otra?, vamos a agregar 
+este método a nuestra clase **Anonymous**, con una versión **por valor** y una **por referencia**:
+
+```csharp
+class Anonymous{
+	
+	static public void anonimiza(Persona p) { 
+			p.nombre = 'xxxxxxxxx';
+			p.apellido = 'xxxxxxxxx';
+	}
+	static public void cambia(Persona p) { 
+			p = new Persona();
+			p.nombre = 'John';
+			p.apellido = 'Doe';
+	}
+
+	static public void cambia_ref( ref Persona p) { 
+			p = new Persona();
+			p.nombre = 'John';
+			p.apellido = 'Doe';
+	}
+
+	static void Main(){
+		Persona espía = new Persona();
+
+		Console.WriteLine(espía.nombre);
+		anonimiza(espía);
+		Console.WriteLine(espía.nombre);
+		cambia(espía);
+		Console.WriteLine(espía.nombre);
+		cambia_ref(espía);
+		Console.WriteLine(espía.nombre);
+	}
+}
+
+```
+
+Si ejecutamos el código anterior veremos que el método **cambia(espía)** no reemplaza al objeto **espía**.
+Lo hace internamenta en la **copia** de la referencia, pero al terminar el método se destruye. En el caso 
+de **cambia_ref(espía)**, como aquí se envia directamente la referencia, si le asignamos un nuevo valor con
+**p = new Persona()** se le está asignando también a la variable externa, en este caso **espía**. Por esto,
+el programa debería imprimir:
+
+```
+Fulano
+xxxxxxxxx
+xxxxxxxxx
+John
+```
+
+
+
+
 
 ## out
 
