@@ -46,7 +46,12 @@
 
 # Actividades 
 
-Fechas de entrega son en horario local de Tijuana.
+## Paso de parámetros (30 de Septiembre) 
+
+1. Lee el texto de [pase de parametros](./clases/params.md).
+1. Escribe un programa en el cual ejemplifiques el paso de parámetros
+**por valor** y **por referencia** utilizando los modificadores **ref**, **out** e **in**.
+
 
 ## Crear Repositorio en Github (18 de Septiembre) 
 
