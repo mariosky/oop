@@ -46,6 +46,9 @@
 
 # Actividades 
 
+** También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
+
+
 ## Clases Abstractas   (24 de Octubre)
 
 ### Ilustrador
