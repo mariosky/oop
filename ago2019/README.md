@@ -45,8 +45,7 @@
 |VALADEZ CORRALES SAUL ALEJANDRO | [saulvaladez18](https://github.com/saulvaladez18/ShaggyPOO)|
 
 # Actividades 
-
-** También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
+También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
 
 
 ## Clases Abstractas   (24 de Octubre)
