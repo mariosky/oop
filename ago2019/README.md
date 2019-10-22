@@ -46,6 +46,105 @@
 
 # Actividades 
 
+## Clases Abstractas   (24 de Octubre)
+
+### Ilustrador
+Basándote en el programa que iniciamos en clase (a continuación), términa el programa
+utilizando el concepto de clases abstractas.
+
+```csharp
+using System;
+using System.Collections.Generic;
+
+namespace figura
+{
+    class Figura 
+    {
+        protected int x;
+        protected int y;
+        protected string color;
+
+        public Figura(int x, int y, string c){
+            this.x = x; this.y = y; color = c;
+        }
+
+        public void dibuja()
+        {
+            Console.WriteLine("Se dibuja una figura color {0}", 
+            color);
+        }
+
+        public void printColor() {
+            Console.WriteLine(color);
+        }
+    }
+
+    class Circulo : Figura {
+        public Circulo(int x, int y, string c):base(x , y, c){
+        }
+
+        public new void dibuja(){
+            Console.WriteLine("Se dibuja un circulo {0}", color);
+        }
+    }
+
+    class Rect : Figura {
+        public Rect(int x, int y, string c):base(x , y, c){
+            }
+        }
+    class Program{
+        static void Main(string[] args){
+            List<Figura> figuras = new List<Figura>();
+            figuras.Add(new Circulo(12,13,"verde")) ;
+            figuras.Add(new Rect(12,13,"azul")) ;
+            figuras.Add(new Rect(12,13,"rojo")) ;
+            figuras.Add(new Circulo(12,13,"rojo")) ;
+            foreach (var item in figuras){
+                item.dibuja();
+            }    
+            Circulo r = new Circulo(10,10,"rojo");   
+            r.dibuja();
+            }
+        }
+}
+```
+
+### Músicos Abstractos 
+Implementa el programa de **Músico** que hiciste en el tema de Herencia pero con clases abstractas.
+
+## Herencia   (23 de Octubre) 
+### Alumnos
+Debes hacer un programa dónde utilices la siguiente jerarquía de clases: **Alumno**, **Licenciatura**,
+y **Posgrado**. La diferencia entre un alumno de Licenciatura y de Posgrado es que los alumnos de 
+Licenciatrua hacen servicio social y residencias, y el alumno de posgrado tiene un tema de investigación.
+Debes:
+
+1. Utilizar herencia. 
+2. Utilizar la referencia **base** y miembros de la clase base.
+3. Redefinir un método en la clase derivada utilizando el modificador **new**.
+4. Prueba la diferencia entre **private** y **protected** para los campos de la clase **Alumno**.
+
+### Músicos
+Escribe un programa dónde utilices la siguiente jerarquía de clases: **Músico**, **Baterista**,
+**Bajista** y **Guitarrista**. En el método **Main()** debes crear una lista de músicos 
+(**List<Músico>**) y utilizando métodos virtuales hacer que los músicos ejecuten los métodos:
+**afina()**,**saluda()**,**toca()**. Básate en el ejemplo que vimos en clase. 
+
+## Sobrecargado de Operadores, ejercicios en clase   (23 de Octubre) 
+### Duración
+Implementa la clase **Duración** siguiendo los pasos:
+
+1. Declara la clase **Duración** con los atributos: *horas*, *minutos* y *segundos*. Estos atributos puden ser propiedades. Por ejemplo, pudes guardar todo en segundos y calcular como paramentres las *horas* y *minutos*. Implementa un método para imprimir la duración en el formato *HH:MM:SS*.
+2. Sobrecarga el constructor **Duración(int h, int m, int s)**.
+2. Sobrecarga el constructor **Duración(int segundos)**. Dependiendo de la implementación del paso 1, puede ser que debas extraer las horas y los minutos.
+3. Sobrecarga el operador **+** para que puedas sumar dos objetos tipo **Duración**. 
+
+### Dominó
+Implementa la clase **Domino** siguiendo los pasos:
+
+1. Declara la clase **Domino** con los atributos: *Espacio1* y *Espacio2*.
+2. Sobrecarga el operador **+** para que puedas sumar dos objetos tipo **Domino**. El resultado debe ser un entero, con la suma de los puntos de ambas piezas.
+
 ## Paso de parámetros (30 de Septiembre) 
 
 1. Lee el texto de [pase de parametros](../clases/params.md).
