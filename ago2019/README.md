@@ -48,6 +48,20 @@
 También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
 
 
+## Generics (20 de Noviembre)
+### Stack
+Implementa la clase **generica** Stack<T>, la cual sea eso una Pila.
+Debe incluir los métodos push() y pop() y marcar error en caso de que la pila 
+    se desborde o se intente hacer pop() a una pila vacía. Básate en el ejercicio
+    visto en clase.
+   Prueba tu clase, con varios tipos de dato.
+    
+### Cola 
+    Utilizando las ideas vistas en la clase Stack<T> ahora intenta hacer
+    una cola. La cola tiene funciona como FIFO, es decir el primero que
+    entra es el primero que sale. Puedes utilizar un arreglo y recorrer los
+    elementos como en una fila del mundo real.
+    
 ## Clases Abstractas   (24 de Octubre)
 
 ### Ilustrador
