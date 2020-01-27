@@ -1,10 +1,17 @@
 
 
+## Evaluación 
+
+| Unidadades           | Examen        | Actividades/Tareas| Projecto | Asistencia  | 
+| ---------------------|---------------|-------------------|----------|-------------|
+| Unidad 1 a Unidad 4  | 40            | 50                |          | 10          | 
+| U5 y U6              | 10            | 5                 |   80     |  5          |
+
 ## Lista de Alumnos 
 
 | Nombre             | Repositorio                                | 
 | -------------------|--------------------------------------------|
-| Nombre del Alumno  | [Usuario](https://github.com/)| 
+| Nombre del Alumno  | [Usuario](https://github.com/)|            
 
 
 # Actividades 
