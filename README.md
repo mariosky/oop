@@ -1,5 +1,5 @@
 
-### Actividades este semestre [AGO2019](./ago2019/README.md)
+### Actividades este semestre [Enero-Junio 2020](./2020enero/README.md)
 
 ## Programación Orientada a Objetos
 
