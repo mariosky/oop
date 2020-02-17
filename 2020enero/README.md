@@ -60,7 +60,7 @@ Crear un pull request [GitHub Help](https://help.github.com/en/articles/creating
 ## Ejercicio de Markdown en Github 
 Crea un nueva carpeta en el repositorio *POO* llamada *Setup* la cual incluya un archivo *README.md*   En el cual se describan los pasos para instalar el ambiente de desarrollo para aplicaciones de consola en C#. Debes de utilizar imágenes,hipervínculos a archivos dentro de tu repositorio. Se deben incluir detalles de:
 
-1. Instalación de dotnet core 2.2.
+1. Instalación de dotnet core úlitima versión.
 2. Instalación y configuración de Visual Studio Code para C#.
 3. Instalación de git. conectado a tu cuenta de GitHub y VSC.
 
