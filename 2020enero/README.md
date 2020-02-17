@@ -11,8 +11,34 @@
 
 | Nombre             | Repositorio                                | 
 | -------------------|--------------------------------------------|
-| Nombre del Alumno  | [Usuario](https://github.com/)|            
-
+| Luevano Gomez Brayan Alberto  | [BrayanLuevano](https://github.com/BrayanLuevano)             |            
+| Israel Felix Bojorquez  | [israeleslegitimo](https://github.com/israeleslegitimo)             |            
+| Ernesto Vazquez    | [ErnestoVazquez94/](https://github.com/ErnestoVazquez94/)             |            
+| Figueroa Parra Francisco Manuel  | [FranFig1310](https://github.com/FranFig1310)             |            
+| Sebastian Hernandez  | [Sebashhdez13](https://github.com/Sebashhdez13)             |            
+| Juan Luis García  | [ Juannino27](https://github.com/Juannino27)             |            
+| Callejas Valdez Jesús  | [FutureOfOrlando](https://github.com/FutureOfOrlando)             |            
+| Izabal Guerrero Andrea Fernanda  | [AndreaIzabal](https://github.com/AndreaIzabal)             |            
+| Jesús Alfaro Angulo  | [Likulau](https://github.com/Likulau)             |            
+| HUERTA MIRELES ROBERTO MANUEL  | [elrowber21](https://github.com/elrowber21)             |            
+| Olea León Jonhy  | [MrPandaIce](https://github.com/MrPandaIce)             |            
+| Gutierrez Mora Karime Isabel  | [KarimeIsabel](https://github.com/KarimeIsabel)             |            
+| Iván Jiménez Castillo | [ivanjimc](https://github.com/ivanjimc)             |            
+| Andres Ponce Garibay   | [P-once](https://github.com/P-once)             |            
+| Jose Angel Flores Gomez |[AngelFloresMrDarkSoul](https://github.com/AngelFloresMrDarkSoul)|            
+| Garay Reyes Lizeth  | [LizethG0219](https://github.com/LizethG0219)|            
+| ERIC KARIM CERVANTES ORTIZ  | [Rasblue](https://github.com/Rasblue)             |            
+| JONATHAN JAFET MOJICA VIDA| [JonathanMov](https://github.com/JonathanMov)             |            
+| Jorge Arturo Copado Luna| [Atxi0nBre4k](https://github.com/Atxi0nBre4k)             |            
+| López Rivera Vanessa Elizabeth| [Chita15](https://github.com/Chita15)             |            
+| Axel Josue De La Rosa López  | [Latzel](https://github.com/Latzel)             |            
+| Bautista Domínguez Miguel Ángel  | [MigBau2001](https://github.com/MigBau2001)             |            
+| Marlon Zarif Callado Esquivel  | [Marlonc137](https://github.com/Marlonc137)             |            
+| Alex Romo García  | [AlexRomoG24](https://github.com/AlexRomoG24)             |            
+| BRYANT FERRER TINOCO   | [KobeBryant24-rgb](https://github.com/KobeBryant24-rgb)             |            
+| David Nuñez Cano   | [Churro696](https://github.com/Churro696)             |            
+| Ruiz Pacheco Daniel Ivan  | [BICI227](https://github.com/BICI227)             |            
+| Nombre del Alumno  | [Usuario](https://github.com/)             |     
 
 # Actividades 
 También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
