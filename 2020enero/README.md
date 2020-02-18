@@ -38,7 +38,13 @@
 | BRYANT FERRER TINOCO   | [KobeBryant24-rgb](https://github.com/KobeBryant24-rgb)             |            
 | David Nuñez Cano   | [Churro696](https://github.com/Churro696)             |            
 | Ruiz Pacheco Daniel Ivan  | [BICI227](https://github.com/BICI227)             |            
-| Nombre del Alumno  | [Usuario](https://github.com/)             |     
+| MANUEL ENRIQUE TOLEDO RAMIREZ  | [ManuelETR](https://github.com/ManuelETR)             |  
+| Alejandro Manuel Carrillo Romero  | [Ale-NHK](https://github.com/Ale-NHK)             |  
+| MIGUEL ARTURO TERRAZAS ROJO  | [Mike-gg](https://github.com/Mike-gg)             |  
+| KENNY ZHENG HU  | [KennyKZH](https://github.com/KennyKZH)             |  
+| ALESSA NICASIO ESPINOZA  | [AlessaNicasio](https://github.com/AlessaNicasio)             |     
+| ALAN RODRIGUEZ CAMACHO | [errror-404](https://github.com/errror-404)             |     
+| ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             |     
 
 # Actividades 
 También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
