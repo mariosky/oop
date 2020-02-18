@@ -47,7 +47,7 @@
 | ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             | 
 | Daniel Gonzalez Saldaña | [DanielOwO](https://github.com/DanielOwO)             | 
 
-DanielOwO    
+  
 
 # Actividades 
 También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
