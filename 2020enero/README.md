@@ -2,7 +2,7 @@
 
 ## Evaluación 
 
-| Unidadades           | Examen        | Actividades/Tareas| Projecto | Asistencia  | 
+| Unidadades           | Examen        | Actividades/Tareas| Proyecto | Asistencia  | 
 | ---------------------|---------------|-------------------|----------|-------------|
 | Unidad 1 a Unidad 4  | 40            | 50                |    -     | 10          | 
 | Unidad 5 y Unidad 6  | 10            | 5                 |   80     |  5          |
