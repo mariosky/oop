@@ -44,7 +44,10 @@
 | KENNY ZHENG HU  | [KennyKZH](https://github.com/KennyKZH)             |  
 | ALESSA NICASIO ESPINOZA  | [AlessaNicasio](https://github.com/AlessaNicasio)             |     
 | ALAN RODRIGUEZ CAMACHO | [errror-404](https://github.com/errror-404)             |     
-| ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             |     
+| ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             | 
+| Daniel Gonzalez Saldaña | [DanielOwO](https://github.com/DanielOwO)             | 
+
+DanielOwO    
 
 # Actividades 
 También pueden hacer pull-request siguiendo las instrucciones adicionales en el [repositorio correspondiente](https://github.com/mariosky/EjerciciosOPP).
