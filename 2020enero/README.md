@@ -9,47 +9,47 @@
 
 ## Lista de Alumnos 
 
-| Nombre             | Repositorio                                | 
-| -------------------|--------------------------------------------|
-| Luevano Gomez Brayan Alberto  | [BrayanLuevano](https://github.com/BrayanLuevano)             |            
-| Israel Felix Bojorquez  | [israeleslegitimo](https://github.com/israeleslegitimo)             |            
-| Ernesto Vazquez    | [ErnestoVazquez94/](https://github.com/ErnestoVazquez94/)             |            
-| Figueroa Parra Francisco Manuel  | [FranFig1310](https://github.com/FranFig1310)             |            
-| Sebastian Hernandez  | [Sebashhdez13](https://github.com/Sebashhdez13)             |            
-| Juan Luis García  | [ Juannino27](https://github.com/Juannino27)             |            
-| Callejas Valdez Jesús  | [FutureOfOrlando](https://github.com/FutureOfOrlando)             |            
-| Izabal Guerrero Andrea Fernanda  | [AndreaIzabal](https://github.com/AndreaIzabal)             |            
-| Jesús Alfaro Angulo  | [Likulau](https://github.com/Likulau)             |            
-| HUERTA MIRELES ROBERTO MANUEL  | [elrowber21](https://github.com/elrowber21)             |            
-| Olea León Jonhy  | [MrPandaIce](https://github.com/MrPandaIce)             |            
-| Gutierrez Mora Karime Isabel  | [KarimeIsabel](https://github.com/KarimeIsabel)             |            
-| Iván Jiménez Castillo | [ivanjimc](https://github.com/ivanjimc)             |            
-| Andres Ponce Garibay   | [P-once](https://github.com/P-once)             |            
-| Jose Angel Flores Gomez |[AngelFloresMrDarkSoul](https://github.com/AngelFloresMrDarkSoul)|            
-| Garay Reyes Lizeth  | [LizethG0219](https://github.com/LizethG0219)|            
-| ERIC KARIM CERVANTES ORTIZ  | [Rasblue](https://github.com/Rasblue)             |            
-| JONATHAN JAFET MOJICA VIDA| [JonathanMov](https://github.com/JonathanMov)             |            
-| Jorge Arturo Copado Luna| [Atxi0nBre4k](https://github.com/Atxi0nBre4k)             |            
-| López Rivera Vanessa Elizabeth| [Chita15](https://github.com/Chita15)             |            
-| Axel Josue De La Rosa López  | [Latzel](https://github.com/Latzel)             |            
-| Bautista Domínguez Miguel Ángel  | [MigBau2001](https://github.com/MigBau2001)             |            
-| Marlon Zarif Callado Esquivel  | [Marlonc137](https://github.com/Marlonc137)             |            
-| Alex Romo García  | [AlexRomoG24](https://github.com/AlexRomoG24)             |            
-| BRYANT FERRER TINOCO   | [KobeBryant24-rgb](https://github.com/KobeBryant24-rgb)             |            
-| David Nuñez Cano   | [Churro696](https://github.com/Churro696)             |            
-| Ruiz Pacheco Daniel Ivan  | [BICI227](https://github.com/BICI227)             |            
-| MANUEL ENRIQUE TOLEDO RAMIREZ  | [ManuelETR](https://github.com/ManuelETR)             |  
-| Alejandro Manuel Carrillo Romero  | [Ale-NHK](https://github.com/Ale-NHK)             |  
-| MIGUEL ARTURO TERRAZAS ROJO  | [Mike-gg](https://github.com/Mike-gg)             |  
-| KENNY ZHENG HU  | [KennyKZH](https://github.com/KennyKZH)             |  
-| ALESSA NICASIO ESPINOZA  | [AlessaNicasio](https://github.com/AlessaNicasio)             |     
-| ALAN RODRIGUEZ CAMACHO | [errror-404](https://github.com/errror-404)             |     
-| ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             | 
-| Daniel Gonzalez Saldaña | [DanielOwO](https://github.com/DanielOwO)             | 
-| Garay Reyes Lizeth | [LizethG0219](https://github.com/LizethG0219)             | 
-| ESTEBAN IVAN LOPEZ LOPEZ | [ElPandaDeLa13](https://github.com/ElPandaDeLa13)             | 
-| LUIS GERARDO NAVARRETE SILVA | [Pepelote12](https://github.com/Pepelote12)             |  
-| GUSTAVO NICOLAS GARCIA | [CamaradaNicolas](https://github.com/CamaradaNicolas)             |  
+|# | Nombre             | Repositorio                                | 
+|--|-------------------|--------------------------------------------|
+|01| Luevano Gomez Brayan Alberto  | [BrayanLuevano](https://github.com/BrayanLuevano)             |            
+|02| Israel Felix Bojorquez  | [israeleslegitimo](https://github.com/israeleslegitimo)             |            
+|03| Ernesto Vazquez    | [ErnestoVazquez94/](https://github.com/ErnestoVazquez94/)             |            
+|04| Figueroa Parra Francisco Manuel  | [FranFig1310](https://github.com/FranFig1310)             |            
+|05| Sebastian Hernandez  | [Sebashhdez13](https://github.com/Sebashhdez13)             |            
+|06| Juan Luis García  | [ Juannino27](https://github.com/Juannino27)             |            
+|07| Callejas Valdez Jesús  | [FutureOfOrlando](https://github.com/FutureOfOrlando)             |            
+|08| Izabal Guerrero Andrea Fernanda  | [AndreaIzabal](https://github.com/AndreaIzabal)             |            
+|09| Jesús Alfaro Angulo  | [Likulau](https://github.com/Likulau)             |            
+|10| HUERTA MIRELES ROBERTO MANUEL  | [elrowber21](https://github.com/elrowber21)             |            
+|11| Olea León Jonhy  | [MrPandaIce](https://github.com/MrPandaIce)             |            
+|12| Gutierrez Mora Karime Isabel  | [KarimeIsabel](https://github.com/KarimeIsabel)             |            
+|13| Iván Jiménez Castillo | [ivanjimc](https://github.com/ivanjimc)             |            
+|14| Andres Ponce Garibay   | [P-once](https://github.com/P-once)             |            
+|15| Jose Angel Flores Gomez |[AngelFloresMrDarkSoul](https://github.com/AngelFloresMrDarkSoul)|            
+|16| Garay Reyes Lizeth  | [LizethG0219](https://github.com/LizethG0219)|            
+|17| ERIC KARIM CERVANTES ORTIZ  | [Rasblue](https://github.com/Rasblue)             |            
+|18| JONATHAN JAFET MOJICA VIDA| [JonathanMov](https://github.com/JonathanMov)             |            
+|19| Jorge Arturo Copado Luna| [Atxi0nBre4k](https://github.com/Atxi0nBre4k)             |            
+|20| López Rivera Vanessa Elizabeth| [Chita15](https://github.com/Chita15)             |            
+|21| Axel Josue De La Rosa López  | [Latzel](https://github.com/Latzel)             |            
+|22| Bautista Domínguez Miguel Ángel  | [MigBau2001](https://github.com/MigBau2001)             |            
+|23| Marlon Zarif Callado Esquivel  | [Marlonc137](https://github.com/Marlonc137)             |            
+|24| Alex Romo García  | [AlexRomoG24](https://github.com/AlexRomoG24)             |            
+|25| BRYANT FERRER TINOCO   | [KobeBryant24-rgb](https://github.com/KobeBryant24-rgb)             |            
+|26| David Nuñez Cano   | [Churro696](https://github.com/Churro696)             |            
+|27| Ruiz Pacheco Daniel Ivan  | [BICI227](https://github.com/BICI227)             |            
+|28| MANUEL ENRIQUE TOLEDO RAMIREZ  | [ManuelETR](https://github.com/ManuelETR)             |  
+|29| Alejandro Manuel Carrillo Romero  | [Ale-NHK](https://github.com/Ale-NHK)             |  
+|30| MIGUEL ARTURO TERRAZAS ROJO  | [Mike-gg](https://github.com/Mike-gg)             |  
+|31| KENNY ZHENG HU  | [KennyKZH](https://github.com/KennyKZH)             |  
+|32| ALESSA NICASIO ESPINOZA  | [AlessaNicasio](https://github.com/AlessaNicasio)             |     
+|33| ALAN RODRIGUEZ CAMACHO | [errror-404](https://github.com/errror-404)             |     
+|34| ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             | 
+|35| Daniel Gonzalez Saldaña | [DanielOwO](https://github.com/DanielOwO)             | 
+|36| Garay Reyes Lizeth | [LizethG0219](https://github.com/LizethG0219)             | 
+|37| ESTEBAN IVAN LOPEZ LOPEZ | [ElPandaDeLa13](https://github.com/ElPandaDeLa13)             | 
+|38| LUIS GERARDO NAVARRETE SILVA | [Pepelote12](https://github.com/Pepelote12)             |  
+|39| GUSTAVO NICOLAS GARCIA | [CamaradaNicolas](https://github.com/CamaradaNicolas)             |  
   
 
 # Actividades 
