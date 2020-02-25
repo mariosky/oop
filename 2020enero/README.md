@@ -46,7 +46,10 @@
 | ALAN RODRIGUEZ CAMACHO | [errror-404](https://github.com/errror-404)             |     
 | ROGELIO CARRILLO REYES  | [RogelioCR03](https://github.com/RogelioCR03)             | 
 | Daniel Gonzalez Saldaña | [DanielOwO](https://github.com/DanielOwO)             | 
-
+| Garay Reyes Lizeth | [LizethG0219](https://github.com/LizethG0219)             | 
+| ESTEBAN IVAN LOPEZ LOPEZ | [ElPandaDeLa13](https://github.com/ElPandaDeLa13)             | 
+| LUIS GERARDO NAVARRETE SILVA | [Pepelote12](https://github.com/Pepelote12)             |  
+| GUSTAVO NICOLAS GARCIA | [CamaradaNicolas](https://github.com/CamaradaNicolas)             |  
   
 
 # Actividades 
