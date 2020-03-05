@@ -153,6 +153,7 @@ static void Main(){
 ## UML
 
 1.	Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
+
 ![Documento de Apoyo](../imgs/card.png)
 
 2. Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
