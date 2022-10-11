@@ -5,7 +5,7 @@ orientada a objetos, ya que la mayoría de los lenguajes de programación
 permiten la definición de [funciones que aceptan parámetros](https://es.wikipedia.org/wiki/Argumento_(inform%C3%A1tica)).
 Independientemente del lenguaje que estemos utilizando, es importante 
 conocer como se realiza internamente el paso de parámetros, ya que esto
-nos permitira hacer más eficientes nuestros programas.
+nos permitirá hacer más eficientes nuestros programas.
 
 Para entender bien los conceptos de paso de parámetros en C#,
 es importante recordar la diferencia entre los tipos de
