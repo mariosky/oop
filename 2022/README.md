@@ -231,7 +231,7 @@ ejercicio visto en clase. Prueba tu clase con varios tipos de datos.
 
 
 ### Cola 
-*Reto Adicional OPCIONAL:*
+*Reto OPCIONAL:*
 
 Utilizando las ideas vistas en la clase **Stack\<T\>** ahora intenta hacer
 una Cola. La cola funciona como una estructura FIFO (First In, First Out),
