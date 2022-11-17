@@ -228,10 +228,12 @@ ejercicio visto en clase. Prueba tu clase con varios tipos de datos.
 ### Cola 
 *Reto Adicional OPCIONAL:*
 
-Utilizando las ideas vistas en la clase Stack<T> ahora intenta hacer
-una cola. La cola tiene funciona como FIFO, es decir el primero que
-entra es el primero que sale. Puedes utilizar un arreglo y recorrer los
-elementos como en una fila del mundo real.
-
+Utilizando las ideas vistas en la clase **Stack\<T\>** ahora intenta hacer
+una Cola. La cola funciona como una estructura FIFO (First In, First Out),
+es decir, el primero que entra es el primero que sale. Puedes utilizar un arreglo y recorrer los
+elementos como en una fila del mundo real. A diferencia de la Pila, ahora necesitamos 
+dos apuntadores, uno que nos indica dónde esta el inicio de la fila (el último que se formó)
+y otro que indique quien es el que sigue en el turno. Los métodos ahora son **EnQueue** y 
+**DeQueue()**.
 
 
