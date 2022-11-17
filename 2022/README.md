@@ -220,6 +220,7 @@ En este caso las figuras se van a comparar por su area. Para esto debes agregar 
 abastracto **public abstract decimal Área()** a la clase Figura. Ya con el método implementado 
 en las clases derivadas, ahora si, compara las áreas e implementa el método **CompareTo**. 
 [Aquí esta la documentación de IComparable](https://learn.microsoft.com/es-mx/dotnet/api/system.icomparable?view=net-6.0).
+Una vez implementada la interfaz, haz una lista de figuras con distintas áreas, ordénalas y mustra sus datos.
 
 
 ## Generics 
