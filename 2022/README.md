@@ -242,7 +242,12 @@ y otro que indique quien es el que sigue en el turno. Los métodos ahora son **E
 **DeQueue()**.
 
 
-# Unidades 5 y 6 Excepciones y Archivos
+# Unidad 5: Excepciones
+En la tarea de la Unidad 6, debes agregar las excepciones necesarias, por ejemplo
+cuando el archivo que deseamos abrir no exista. También cuando haya algún error 
+en el procesamiento del archivo.
+
+# Unidad 6: Archivos
 
 Crea una clase llamada **Producto** y otra **ProductoDB** la cual lea y escriba
 objetos tipo **Producto** a un archivo, similar a lo visto en clase. Debes de
