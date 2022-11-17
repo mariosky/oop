@@ -1,9 +1,38 @@
 
+# Tareas de Programación Orientada a Objetos
+
+# Unidad 1: El Paradigma Orientado a Objetos
+
+## UML
+
+1.	Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
+
+![Documento de Apoyo](../imgs/card.png)
+
+2. Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
+
+![Documento de Apoyo](../imgs/agg.png)
+
+3. Haz el diagrama de clases del siguiente sistema:
+```
+Nos piden hacer una aplicación para llevar una bitácora de libros
+que estamos leyendo y los que ya terminamos de leer. 
+En la App podemos buscar libros por autor, categoría, título y calificación.
+Una vez que encontramos un libro, podemos agregarlo a nuestra biblioteca e indicar
+si lo estamos leyendo o ya terminamos de leer. También le podemos poner una calificación.
+Los libros pueden tener más de un autor, si buscamos un autor podemos ver la
+lista de los libros que ha escrito. En caso de que haya traducciones o reediciones 
+se consideran como el mismo libro. 
+
+OPCIONAL: Podemos indicar si un libro se lo prestamos a un amigo, desde que fecha y
+tenemos su contacto para recordarle que nos lo regrese.
+```
+
+# Unidad 2: Clases y Objetos
 ## Programa básico Películas 
 
 De acuerdo a los ejemplos vistos en clase y la lectura. Implementa en c# la
 clase *Pelicula*  con los siguientes atributos **públicos**:
-
 
 ### Pelicula
 | atributo             | tipo           |
@@ -76,34 +105,7 @@ static void Main(){
 } 
 ```
 
-## UML
-
-1.	Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
-
-![Documento de Apoyo](../imgs/card.png)
-
-2. Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
-
-![Documento de Apoyo](../imgs/agg.png)
-
-3. Haz el diagrama de clases del siguiente sistema:
-```
-Nos piden hacer una aplicación para llevar una bitácora de libros
-que estamos leyendo y los que ya terminamos de leer. 
-En la App podemos buscar libros por autor, categoría, título y calificación.
-Una vez que encontramos un libro, podemos agregarlo a nuestra biblioteca e indicar
-si lo estamos leyendo o ya terminamos de leer. También le podemos poner una calificación.
-Los libros pueden tener más de un autor, si buscamos un autor podemos ver la
-lista de los libros que ha escrito. En caso de que haya traducciones o reediciones 
-se consideran como el mismo libro. 
-
-OPCIONAL: Podemos indicar si un libro se lo prestamos a un amigo, desde que fecha y
-tenemos su contacto para recordarle que nos lo regrese.
-```
-
-
 ## Paso de parámetros  
-
 1. Lee el texto de [pase de parametros](../clases/params.md).
 1. Escribe un programa en el cual ejemplifiques el paso de parámetros
 **por valor** y **por referencia** utilizando los modificadores **ref**, **out** e **in**.
@@ -124,8 +126,8 @@ Implementa la clase **Duración** siguiendo los pasos:
 3. Sobrecarga el operador **+** para que puedas sumar dos objetos tipo **Duración**. 
 
 
-## Herencia   
-### Alumnos
+# Unidad 3: Herencia
+## Alumnos
 Debes hacer un programa dónde utilices la siguiente jerarquía de clases: **Alumno**, **Licenciatura**,
 y **Posgrado**. La diferencia entre un alumno de Licenciatura y de Posgrado es que los alumnos de 
 Licenciatrua hacen servicio social y residencias, y el alumno de posgrado tiene un tema de investigación.
@@ -136,14 +138,20 @@ Debes:
 3. Redefinir un método en la clase derivada utilizando el modificador **new**.
 4. Prueba la diferencia entre **private** y **protected** para los campos de la clase **Alumno**.
 
-### Músicos
+## Músicos
 Escribe un programa dónde utilices la siguiente jerarquía de clases: **Músico**, **Baterista**,
 **Bajista** y **Guitarrista**. En el método **Main()** debes crear una lista de músicos 
 (**List<Músico>**) y utilizando métodos **virtuales** hacer que los músicos ejecuten los métodos:
 **afina()**,**saluda()**,**toca()**. Básate en el ejemplo que vimos en clase. Importante: 
 no debes utilizar clases abstractas ni interfaces.
 
+
+# Unidad 4: Polimorfismo
 ## Clases Abstractas  
+
+### Músicos Abstractos 
+Implementa el programa de **Músico** que hiciste en el tema de Herencia pero con clases abstractas.
+Los métodos Saluda(), Afina(), Toca() ahora deben ser **abstract**.
 
 ### Ilustrador
 Basándote en el programa a continuación, terminalo pero  
@@ -205,6 +213,7 @@ namespace figura
         }
 }
 ```
+
 ## Interfaces 
 Debes hacer que tu clase abstracta **Figura** implemente la interfaz **IComparable** como vimos en clase. 
 En este caso las figuras se van a comparar por su area. Para esto debes agregar el método 
@@ -212,12 +221,8 @@ abastracto **public abstract decimal Área()** a la clase Figura. Ya con el mét
 en las clases derivadas, ahora si, compara las áreas e implementa el método **CompareTo**. 
 [Aquí esta la documentación de IComparable](https://learn.microsoft.com/es-mx/dotnet/api/system.icomparable?view=net-6.0).
 
-### Músicos Abstractos 
-Implementa el programa de **Músico** que hiciste en el tema de Herencia pero con clases abstractas.
-Los métodos Saluda(), Afina(), Toca() ahora deben ser **abstract**.
 
 ## Generics 
-
 ### Stack
 Implementa la clase **genérica** Stack<T>, la cual sea eso una Pila. Debe
 incluir los métodos push() y pop() y debe lanzar una excepción en caso de que
